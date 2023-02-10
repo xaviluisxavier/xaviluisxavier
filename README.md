@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Python**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Fun fact **Pekoe & Blend 😜**
 
 <br>
 
