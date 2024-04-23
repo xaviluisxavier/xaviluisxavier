@@ -5,9 +5,9 @@
 
 - 🔥  Web Developer & Javascript programmer
 
-- 🔭 I’m currently working at Home
+- 🔭 I’m currently studying for university
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Python**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 - ⚡ Fun fact **Pekoe & Blend 😜**
 
